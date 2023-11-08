@@ -25,3 +25,44 @@
     text-decoration: underline;
     font-weight: 500;
 }
+
+.about-me{
+    background-color: #e9f2f9;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.about-me .about-me-name{
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.about-me .about-me-job{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.about-me .ref-icon{
+    color: #1b325f;
+    text-decoration: none;
+}
+
+.about-me .ref-icon:hover{
+    color: #f26c4f;
+    box-shadow: #9cc4e4;
+}
+
+.education{
+    background-color: gray;
+}
+
+.experience{
+    background-color: lightgreen;
+}
+
+.footer{
+    background-color: floralwhite;
+}
