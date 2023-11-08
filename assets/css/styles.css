@@ -74,6 +74,7 @@
     height: auto;
     font-weight: 300;
     background-color: #1b325f;
+    font-size: 14px;
 }
 
 .education .card-title{
@@ -89,7 +90,47 @@
 }
 
 .experience{
-    background-color: lightgreen;
+    background-color: #e9f2f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.experience .cards{
+    width: 70%;
+    background-color: #e9f2f9;
+}
+
+.experience .card{
+    background-color: #e9f2f9;
+    border: none;
+}
+
+
+.experience .experience-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.experience .badge{
+    width: auto;
+    height: auto;
+    font-weight: 300;
+    background-color: #1b325f;
+    font-size: 15px;
+}
+
+.experience .card-title{
+    font-size: 20px;
+}
+
+.experience .card-subtitle{
+    font-size: 17px;
+}
+
+.experience .card-text{
+    font-size: 15px;
 }
 
 .footer{
