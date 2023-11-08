@@ -8,6 +8,7 @@
 }
 
 
+
 .navbar{
     background-color: #1b325f;
 }
@@ -56,7 +57,35 @@
 }
 
 .education{
-    background-color: gray;
+    background-color: #e9f2f9;
+}
+
+.education .cards{
+    justify-content: space-around;
+}
+
+.education .education-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.education .badge{
+    width: auto;
+    height: auto;
+    font-weight: 300;
+    background-color: #1b325f;
+}
+
+.education .card-title{
+    font-size: 20px;
+}
+
+.education .card-subtitle{
+    font-size: 17px;
+}
+
+.education .card-text{
+    font-size: 15px;
 }
 
 .experience{
