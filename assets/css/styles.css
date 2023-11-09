@@ -134,5 +134,19 @@
 }
 
 .footer{
-    background-color: floralwhite;
+    background-color: #1b325f;
+}
+
+.footer .footer-text{
+    font-weight: 300;
+}
+
+.footer .ref-icon{
+    color: #e9f2f9;;
+    text-decoration: none;
+}
+
+.footer .ref-icon:hover{
+    color: #f26c4f;
+    box-shadow: #9cc4e4;
 }
