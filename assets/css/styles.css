@@ -7,8 +7,6 @@
     font-family: Roboto;
 }
 
-
-
 .navbar{
     background-color: #1b325f;
 }
@@ -54,6 +52,20 @@
 .about-me .ref-icon:hover{
     color: #f26c4f;
     box-shadow: #9cc4e4;
+}
+
+.about-me .row{
+    width: 40%;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.about-me .about-me-data{
+    font-size: 16px;
+}
+
+.personal-data{
+    background-color: #e9f2f9;
 }
 
 .education{
