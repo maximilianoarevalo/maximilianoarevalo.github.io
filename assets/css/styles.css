@@ -162,3 +162,20 @@
     color: #f26c4f;
     box-shadow: #9cc4e4;
 }
+
+.portfolio .portfolio-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.portfolio .image-top {
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.portfolio .card{
+    text-align: center;
+}
+  
