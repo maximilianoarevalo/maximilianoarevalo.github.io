@@ -1,4 +1,4 @@
-# maximilianoarevalo.github.io
+# Desafío N°6
 
 Página desplegada en github pages: https://maximilianoarevalo.github.io/
 
